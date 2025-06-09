@@ -1,4 +1,4 @@
 ## 🌐 Live Web App
 
 You can access the live Google Apps Script form here:  
-👉 [Open Web App](https://script.google.com/macros/s/AKfycbwzxYxTkeVU8_kramRRonWI9lfS2WMhNsPpztS3iw7V3UbQM0ZC1-3KqYL1dTYaxQ-8/exec)
+👉 [Open Web App](https://script.google.com/macros/s/AKfycbwrwYiVCt8MqvAdF1yfgGL-L2v0lCgRUhH447jZjDcD36x3TwR-VULahEhIONKKKVJE/exec)
